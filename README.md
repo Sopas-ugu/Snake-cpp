@@ -1,7 +1,9 @@
 # Snake
 A simple snake game made with SDL2 in C++.
 
-![a](https://github.com/Sopas-ugu/Snake-cpp/blob/main/Screenshots/1.png)
+[C# Version](https://github.com/Sopas-ugu/Snake)
+
+![](https://github.com/Sopas-ugu/Snake-cpp/blob/main/Screenshots/1.png)
 
 # Build
 
